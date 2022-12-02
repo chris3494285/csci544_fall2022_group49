@@ -15,10 +15,10 @@ The info below describe the component of each data files we used
 5. test_dataset_mixed:  has only real data, contains 20% of all real data 
 
 
-group1：all_sentences.csv 
+Group1：all_sentences.csv 
 
-group2: train_dataset_pure, test_dataset_pure
+Group2: train_dataset_pure, test_dataset_pure
 
-group3: train_dataset_mixed,test_dataset_mixed
+Group3: train_dataset_mixed,test_dataset_mixed
 
 Evaluation scores： accuracy, f1 score, precision, recall
