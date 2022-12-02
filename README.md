@@ -14,7 +14,9 @@ The info below describe the component of each data files we used:
 
 
 group1：all_sentences.csv 
-group2: train_dataset_pure, test_dataset_pure: 
+
+group2: train_dataset_pure, test_dataset_pure
+
 group3: train_dataset_mixed,test_dataset_mixed
 
 Evaluation scores： accuracy, f1 score, precision, recall
