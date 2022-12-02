@@ -12,7 +12,7 @@ The info below describe the component of each data files we used:
 
 4. train_dataset_mixed: has all real and made dat， contains 80% of all real data
 
-5.. test_dataset_mixed:  has only real data, contains 20% of all real data 
+5. test_dataset_mixed:  has only real data, contains 20% of all real data 
 
 
 group1：all_sentences.csv 
