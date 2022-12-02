@@ -4,7 +4,7 @@ There are four python file describing the training processes of all models invol
 
 The info below describe the component of each data files we used
 
-1.all_sentences.csv: has all real and made data
+1. all_sentences.csv: has all real and made data
 
 2. train_dataset_pure: has only real data, contains 80% of all real data
 
