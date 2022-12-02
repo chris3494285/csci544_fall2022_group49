@@ -2,7 +2,7 @@
 
 There are four python file describing the training processes of all models involved in our project.
 
-The info below describe the component of each data files we used:
+The info below describe the component of each data files we used
 
 1.all_sentences.csv: has all real and made data
 
