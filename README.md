@@ -8,8 +8,8 @@ The info below describe the component of each data files we used:
 all_sentences.csv: has all real and made data
 
 2. 
-train_dataset_pure: has only real data, contains 80% of all real data
-test_dataset_pure: has only real data，contains 20% of all real data 
+train_dataset_pure: has only real data, contains 80% of all real data \n
+test_dataset_pure: has only real data，contains 20% of all real data  \n
 
 3.
 train_dataset_mixed: has all real and made dat， contains 80% of all real data
